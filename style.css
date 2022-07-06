@@ -1,0 +1,41 @@
+body {
+    background-image: url("./assets/nums.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#con {
+    margin-top: 120px;
+}
+
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bolder;
+    color: rgb(16, 17, 19);
+}
+
+#in {
+    border-radius: 20px;
+    height: 40px;
+    width: 250px;
+    text-align: center;
+    border-color: rgb(212, 79, 195);
+}
+
+#bt {
+    border-radius: 12px;
+    height: 30px;
+    border-color: crimson;
+    box-shadow: 0 8px 16px 0 rgba(170, 78, 78, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-weight: bolder;
+    background-color: rgb(197, 245, 245);
+}
+
+#out {
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: Brush Script MT;
+    text-align: center;
+    color: crimson;
+}
